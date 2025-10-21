@@ -62,7 +62,7 @@
     { "type": "TGH", "partName": "Great Tough Alpha", "hp": 0, "str": 0, "tec": 0, "wlk": -1, "fly": -1, "tgh": 3, "cost": 20 },
     { "type": "TGH", "partName": "Great Tough Beta", "hp": 0, "str": -1, "tec": -1, "wlk": -1, "fly": -1, "tgh": 3, "cost": 10 },
 
-    { "type": "OTHER", "partName": "Eternal", "hp": 0, "str": 0, "tec": 0, "wlk": -1, "fly": -1, "tgh": 3, "cost": 5 },
+    { "type": "OTHER", "partName": "Eternal", "hp": 0, "str": 0, "tec": 0, "wlk": 0, "fly": 0, "tgh": 0, "cost": 5 },
     { "type": "OTHER", "partName": "High Eternal", "hp": 8, "str": 0, "tec": 0, "wlk": 0, "fly": 0, "tgh": 0, "cost": 15 },
 
     { "type": "STR&TEC", "partName": "Assault", "hp": 0, "str": 1, "tec": 1, "wlk": 0, "fly": 0, "tgh": 0, "cost": 15 },
